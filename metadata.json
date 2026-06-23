@@ -1,0 +1,6 @@
+{
+  "name": "Netro",
+  "description": "Digital Business Cards for Modern Professionals - Create, share, and manage digital business cards with QR codes, NFC, and CRM integrations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
